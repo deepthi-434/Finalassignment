@@ -7,6 +7,6 @@ import base.base;
 public class cruiddef {
 	
 	WebDriver driver = base.getDriver();
-	Login login;
+	
 
 }
